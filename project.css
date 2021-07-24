@@ -1,0 +1,165 @@
+.logo{ width:80px;
+       height:60px;
+       border-radius:3px}
+       h1{font-size: 50px;
+          color: black;
+          font-family: Georgia;
+          text-align:center;}
+          header{ 
+          background-image:url(gradient.jpg);
+          background-size:300%;
+          background-positon:center;
+          padding:2rem;
+          }
+          #premium{ text-align: center;
+                   color:orange;
+                   font-family:arial-black;
+                   }
+                   footer{ background-color: black;
+                          color:whitesmoke;
+                          border-radius:3px;
+                          }
+                          #gold{ text-align: center;
+                                 color:whitesmoke;
+                                 font-family: Georgia;}
+                                 
+                                 li{ list-style-type:none;
+                                 padding:15px;
+                                 margin:3px;
+                                 border-width:15cm;
+                                 display:inline-block;}
+                                 
+                                 ul{ list-style-type:none;
+                                 padding:2em;
+                                 margin:0rem;
+                                 text-align:center;
+                                 }
+                                 
+                                 ul,li{ background-color: lightskyblue;
+                                 border-radius:10px;
+                                 padding:10px;
+                                 margin:15px;
+                                 }
+                                 a:link a:visited{
+                                 background-color:white;
+                                 color:purple;
+                                 border-radius:5px;
+                                 padding:2px;
+                                 text-decoration:none;
+                                 }
+                                 a:hover{
+                                 background-color:navy;
+                                 color: brown;
+                                 }
+                                 .a{ border-radius:0.5rem;
+                                 background-color: darkgrey;
+                                 Color: black;
+                                 font-weight:bolder;
+                                 padding:1em;
+                                 margin: 0rem 2rem;
+                                 text-decoration:none;
+                                 font-size:large;
+                                 }
+                                  .card{
+                                        border:3px solid black;
+                                        border-radius:10px;
+                                        margin:8px;
+                                        box-shadow:0 8px 8px 0;
+                                        padding:10px;
+                                        }
+                                        #pre{ width: 200px;
+                                             height:150px;
+                                             padding:10px;
+                                             margin:15px;
+                                             }
+                                             #pro{ text-align:center;}
+                                             #luke{ text-align:center;
+                                             font-family: courier;
+                                             }
+                                             #john{ text-align:center;
+                                             font-weight:light;
+                                             font-family: Georgia;
+                                             }
+                                             #pri{ width: 200px;
+                                             height: 200px;
+                                             padding:10px;
+                                             margin:15px;}
+                                             .psalm{ border-radius:10px;
+                                                     background-color:palegreen;
+                                                     width:100px;
+                                                     height:40px;}
+                                                     #james{ text-align:center
+                                                     }
+                                                     .moto{background-image: url(download.jpg);
+                                                    
+                                                     
+                                                     background-repeat:no-repeat;
+                                                     background-position:center;
+                                                     background-size:cover;
+                                                     
+                                                     
+                                                     }
+                                                     #good{ text-align:center;
+                                                     font-family:;
+                                                     font-size: 20px;
+                                                     color:silver;
+                                                     }
+                                                     #good{border:2px solid white;
+                                                     border-radius:1px;
+                                                     background-color:rgb(51,120,153);
+                                                     margin:8px;
+                                                     padding:8px;
+                                                     }
+                                                     .icon{width:60px;
+                                                     height:50px;
+                                                     border-radius:15px;}
+                                                     #n{text-align:center;}
+                                                     #m{ text-align: center;
+                                                     padding:5px;
+                                                     margin:8px;
+                                                     }
+                                                     .logos{ width:250px;
+                                                     height:70px;
+                                                     border-radius:3px;
+                                                     }
+                                                     blockquote{ text-align:center;
+                                                     color:darkorange;
+                                                     font-family:Garamond;}
+                                                     address { text-align: center;}
+                                                     .contact{
+                                                     width:70%;
+                                                     height:280%;
+                                                     background-color:sandybrown ;
+                                                     margin: 1rem 9rem;
+                                                     padding:1rem;
+                                                     text-align: center;
+                                                     border-radius:10px;
+                                                    border: 3px solid darkgrey;;
+                                                     
+                                                     }
+                                                     input{ margin-bottom:3rem;
+                                                     }
+                                                     .calculus{border-radius:4px;
+                                                               width:200px;
+                                                               height:70;
+                                                               box-shadow:0 4px 4px 0 ;
+                                                               background-color:red;}
+                                                               #tan{ text-decoration:none;
+                                                               font-size:30px;
+                                                               }
+                                                     
+                                                          .calculus:hover{background-color:green;}
+                                                          #star{color:indigo;}
+                                                          #cos{text-decoration:none;} 
+                                                          .sin{ background-image:url(downloadfile.jpg)}
+                                                          .cot{ border-radius:10px;
+                                                          margin:8px;
+                                                          background-color:lightcyan;
+                                                          } 
+                                                            
+                                                            
+                                                            
+                                        
+                                                     
+                                             
+                          
